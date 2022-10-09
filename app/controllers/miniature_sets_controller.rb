@@ -1,0 +1,3 @@
+class MiniatureSetsController < ApplicationController
+
+end
