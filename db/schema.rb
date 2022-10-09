@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(version: 2022_10_09_203258) do
 
   create_table "miniatures", force: :cascade do |t|
     t.string "name"
+    t.string "rarity"
     t.string "size"
     t.integer "units"
     t.integer "miniature_set_id"
