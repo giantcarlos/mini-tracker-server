@@ -914,7 +914,7 @@ Miniature.create([
         name: "Drider",
         rarity: "Uncommon",
         size: "Large",
-        units: 1,
+        units: 2,
         miniature_set_id: 41,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drider.jpg"
     },
@@ -1291,7 +1291,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 55,
+        miniature_set_id: 56,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/performer-2_pre.jpg"
     },
     {
@@ -1299,7 +1299,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Small",
         units: 1,
-        miniature_set_id: 55,
+        miniature_set_id: 56,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/sir-talavar_pre.jpg"
     },
     {
@@ -1307,7 +1307,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 55,
+        miniature_set_id: 56,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/star_pre2.jpg"
     },
     {
@@ -1315,7 +1315,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 55,
+        miniature_set_id: 56,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/unknown-darkling.jpg"
     },
     {
@@ -1323,7 +1323,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 56,
+        miniature_set_id: 57,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/van-richtens-guide-to-ravenloft/wereraven.jpg"
     },
     {
@@ -1331,7 +1331,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Huge",
         units: 1,
-        miniature_set_id: 57,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mordenkainen-monsters-of-the-multiverse/female-steeder.jpg"
     },
     {
@@ -1339,7 +1339,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 58,
+        miniature_set_id: 59,
         img_url: "https://www.minisgallery.com/images/minis/critical-role/clovis-concord-and-menagerie-coast/the-hollow-one.jpg"
     },
     {
@@ -1347,7 +1347,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 58,
+        miniature_set_id: 59,
         img_url: "https://www.minisgallery.com/images/minis/critical-role/clovis-concord-and-menagerie-coast/pallid-elf.jpg"
     },
     {
@@ -1355,7 +1355,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 59,
+        miniature_set_id: 60,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/molliver_pre2.jpg"
     },
     {
@@ -1363,7 +1363,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 60,
+        miniature_set_id: 61,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/kelek_pre2.jpg"
     },
     {
@@ -1371,7 +1371,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 60,
+        miniature_set_id: 61,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/skylla_pre2.jpg"
     },
     {
@@ -1379,8 +1379,16 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 61,
+        miniature_set_id: 62,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/angelfire/ghostly-consort.jpg"
+    },
+    {
+        name: "Dragon Smiter",
+        rarity: "Uncommon",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 23,
+        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/dungeons-deep/dragon-smiter.jpg"
     }
 ])
 
