@@ -1,13 +1,29 @@
 class MiniatureSetsController < ApplicationController
 
     get '/miniature_sets' do
-        miniature_sets = MiniatureSet.all
-        miniature_sets.to_json(include: :miniatures)
+        MiniatureSet.all.to_json(include: :miniatures)
     end
 
     get '/miniature_sets/:id' do
-        miniature_set = MiniatureSet.find_by(id: params[:id])
+        miniature_set = MiniatureSet.find(params[:id])
         miniature_set.to_json(include: :miniatures)
+    end
+
+    post '/miniature_sets' do
+        miniature_set = MiniatureSet.create(name: params[:name], year: params[:year])
+        miniature_set.to_json
+    end
+
+    patch '/miniature_sets/:id' do
+        miniature_set = MiniatureSet.find(params[:id])
+        miniature_set.update(name: params[:name], year: params[:year])
+        miniature_set.to_json
+    end
+
+    delete '/miniature_sets/:id' do
+        miniature_set = MiniatureSet.find(params[:id])
+        miniature_set.destroy
+        miniature_set.to_json
     end
 
 end
