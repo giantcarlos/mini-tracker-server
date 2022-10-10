@@ -13,10 +13,10 @@ class MiniaturesController < ApplicationController
     post '/miniatures' do
         miniature = Miniature.create(
             name: params[:name], 
-            rarity: params[:rarity]
-            size: params[:size]
-            units: params[:units]
-            miniature_set_id: params[:miniature_set_id]
+            rarity: params[:rarity],
+            size: params[:size],
+            units: params[:units],
+            miniature_set_id: params[:miniature_set_id],
             img_url: params[:img_url])
         miniature.to_json
     end
@@ -25,12 +25,12 @@ class MiniaturesController < ApplicationController
         miniature = Miniature.find(params[:id])
         miniature.update(
             name: params[:name], 
-            rarity: params[:rarity]
-            size: params[:size]
-            units: params[:units]
-            miniature_set_id: params[:miniature_set_id]
+            rarity: params[:rarity],
+            size: params[:size],
+            units: params[:units],
+            miniature_set_id: params[:miniature_set_id],
             img_url: params[:img_url])
-            miniature.to_json
+        miniature.to_json
     end
 
     delete '/miniatures/:id' do
