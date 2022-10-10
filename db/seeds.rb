@@ -243,8 +243,12 @@ MiniatureSet.create([
         year: 2021
     },
     {
-        name: "Dungeons & Dragons: Leage of Malevolence",
+        name: "Dungeons & Dragons: League of Malevolence",
         year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Angelfire",
+        year: 2005
     }
 ])
 
@@ -265,6 +269,14 @@ Miniature.create([
         units: 1,
         miniature_set_id: 1,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/van-richten.jpg"
+    },
+    {
+        name: "Duergar Slaver",
+        rarity: "Common",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 1,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/duergar-slaver.jpg"
     },
     {
         name: "Cormyrean War Wizard",
@@ -420,11 +432,19 @@ Miniature.create([
     },
     {
         name: "Cleric of Syreth",
-        rarity: "Unommon",
+        rarity: "Uncommon",
         size: "Medium",
         units: 2,
         miniature_set_id: 14,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/war-of-the-dragon-queen/cleric-of-syreth.jpg"
+    },
+    {
+        name: "Tavern Brawler",
+        rarity: "Uncommon",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 14,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/war-of-the-dragon-queen/tavern-brawler.jpg"
     },
     {
         name: "Succubus",
@@ -907,6 +927,14 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/mind-flayer-lich.jpg"
     },
     {
+        name: "Copper Dragon",
+        rarity: "Rare",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 41,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/copper-dragon.jpg"
+    },
+    {
         name: "Nalfeshnee Demon",
         rarity: "Rare",
         size: "Large",
@@ -1345,6 +1373,14 @@ Miniature.create([
         units: 1,
         miniature_set_id: 60,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/skylla_pre2.jpg"
+    },
+    {
+        name: "Ghostly Consort",
+        rarity: "Rare",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 61,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/angelfire/ghostly-consort.jpg"
     }
 ])
 
