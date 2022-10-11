@@ -175,7 +175,7 @@ MiniatureSet.create([
         year: 2016
     },
     {
-        name: "Dungeons & DRagons: Monster Managerie 2",
+        name: "Dungeons & Dragons: Monster Managerie 2",
         year: 2017
     },
     {
