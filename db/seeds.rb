@@ -1311,36 +1311,12 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/deva.jpg"
     },
     {
-        name: "Adult Black Dragon",
-        rarity: "Unique",
-        size: "Huge",
-        units: 1,
-        miniature_set_id: 40,
-        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/adult-black-dragon.jpg"
-    },
-    {
-        name: "Wereraven",
-        rarity: "Common",
+        name: "Minsc and Boo",
+        rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 57,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/van-richtens-guide-to-ravenloft/wereraven.jpg"
-    },
-    {
-        name: "Arkhan the Cruel",
-        rarity: "Unique",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 32,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/arkhan-the-cruel/arkhan-the-cruel.jpg"
-    },
-    {
-        name: "Female Steeder",
-        rarity: "Uncommon",
-        size: "Huge",
-        units: 1,
-        miniature_set_id: 58,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mordenkainen-monsters-of-the-multiverse/female-steeder.jpg"
+        miniature_set_id: 45,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/minsc-and-boo.jpg"
     },
     {
         name: "Ice Troll",
@@ -1351,20 +1327,12 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/ice-troll.jpg"
     },
     {
-        name: "Cloaker",
-        rarity: "Uncommon",
-        size: "Large",
+        name: "Adult Black Dragon",
+        rarity: "Unique",
+        size: "Huge",
         units: 1,
-        miniature_set_id: 52,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rising-from-the-last-war/cloaker.jpg"
-    },
-    {
-        name: "Minsc and Boo",
-        rarity: "Rare",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 45,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/minsc-and-boo.jpg"
+        miniature_set_id: 40,
+        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/adult-black-dragon.jpg"
     },
     {
         name: "Red Dragon",
@@ -1375,12 +1343,44 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/red-dragon.jpg"
     },
     {
+        name: "Arkhan the Cruel",
+        rarity: "Unique",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 32,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/arkhan-the-cruel/arkhan-the-cruel.jpg"
+    },
+    {
+        name: "Wereraven",
+        rarity: "Common",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 57,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/van-richtens-guide-to-ravenloft/wereraven.jpg"
+    },
+    {
+        name: "Female Steeder",
+        rarity: "Uncommon",
+        size: "Huge",
+        units: 1,
+        miniature_set_id: 58,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mordenkainen-monsters-of-the-multiverse/female-steeder.jpg"
+    },
+    {
         name: "Dire Bat",
         rarity: "Unommon",
         size: "Large",
         units: 4,
         miniature_set_id: 13,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/underdark/dire-bat.jpg"
+    },
+    {
+        name: "Cloaker",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 52,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rising-from-the-last-war/cloaker.jpg"
     },
     {
         name: "Adult Purple Dragon",
