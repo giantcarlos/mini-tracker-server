@@ -7,6 +7,10 @@ MiniatureSet.create([
         year: 2021
     },
     {
+        name: "Critical Role: Clovis Concord & Managerie Coast",
+        year: 2021
+    },
+    {
         name: "Critical Role: NPC's of Wildemount",
         year: 2021
     },
@@ -33,10 +37,6 @@ MiniatureSet.create([
     {
         name: "Dungeons & Dragons: Blood War",
         year: 2006
-    },
-    {
-        name: "Dungeons & Dragons: Clovis Concord & Managerie Coast",
-        year: 2021
     },
     {
         name: "Dungeons & Dragons: Covens & Covenants",
@@ -259,7 +259,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 54,
+        miniature_set_id: 29,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/snowy-owlbear.jpg"
     },
     {
@@ -267,7 +267,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 4,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drow-scout.jpg"
     },
     {
@@ -275,7 +275,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 47,
+        miniature_set_id: 46,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/durnan.jpg"
     },
     {
@@ -283,7 +283,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 47,
+        miniature_set_id: 46,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/volothamp-geddarm.jpg"
     },
     {
@@ -291,7 +291,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 48,
+        miniature_set_id: 28,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/nightveil-specter.jpg"
     },
     {
@@ -299,7 +299,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 2,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drider.jpg"
     },
     {
@@ -307,7 +307,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 8,
+        miniature_set_id: 20,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/promos-gd/drow-wizard.jpg"
     },
     {
@@ -315,7 +315,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 48,
+        miniature_set_id: 28,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/deathpact-angel.jpg"
     },
     {
@@ -323,7 +323,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 4,
-        miniature_set_id: 2,
+        miniature_set_id: 32,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/duergar-hammer.jpg"
     },
     {
@@ -331,7 +331,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 3,
+        miniature_set_id: 1,
         img_url: "https://www.minisgallery.com/images/minis/critical-role/characters-of-taldorei/matthew-mercer.jpg"
     },
     {
@@ -339,7 +339,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Gargantuan",
         units: 1,
-        miniature_set_id: 4,
+        miniature_set_id: 49,
         img_url: "https://www.minisgallery.com/images/minis/magic-the-gathering/adventures-in-the-forgotten-realms/lolth-the-spider-queen_pre.jpg"
     },
     {
@@ -347,7 +347,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Small",
         units: 1,
-        miniature_set_id: 5,
+        miniature_set_id: 4,
         img_url: "https://www.minisgallery.com/images/minis/death-saves/war-of-dragons-1/raven-familiar_pre.jpg"
     },
     {
@@ -355,7 +355,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 1,
+        miniature_set_id: 39,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/count-strahd-von-zarovich-vampire.jpg"
     },
     {
@@ -363,7 +363,7 @@ Miniature.create([
         rarity: "Unommon",
         size: "Medium",
         units: 2,
-        miniature_set_id: 12,
+        miniature_set_id: 11,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/deathknell/dragonblade-ninja.jpg"
     },
     {
@@ -371,7 +371,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 6,
+        miniature_set_id: 5,
         img_url: "https://www.minisgallery.com/images/minis/death-saves/war-of-dragons-2/the-ghost-of-jerico-blackwing_pre.jpg"
     },
     {
@@ -379,7 +379,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 6,
+        miniature_set_id: 5,
         img_url: "https://www.minisgallery.com/images/minis/death-saves/war-of-dragons-2/hugo-ledbetter_pre.jpg"
     },
     {
@@ -387,7 +387,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 6,
+        miniature_set_id: 5,
         img_url: "https://www.minisgallery.com/images/minis/death-saves/war-of-dragons-2/oriax_pre.jpg"
     },
     {
@@ -395,7 +395,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 7,
+        miniature_set_id: 19,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/promos-gd/lolths-sting.jpg"
     },
     {
@@ -403,7 +403,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 4,
-        miniature_set_id: 9,
+        miniature_set_id: 14,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/dragoneye/elf-spearguard.jpg"
     },
     {
@@ -411,7 +411,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 10,
+        miniature_set_id: 7,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/archfiends/dalelands-militia.jpg"
     },
     {
@@ -419,7 +419,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 4,
-        miniature_set_id: 10,
+        miniature_set_id: 7,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/archfiends/soldier-of-cormyr.jpg"
     },
     {
@@ -427,7 +427,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 2,
-        miniature_set_id: 1,
+        miniature_set_id: 39,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/cormyrean-war-wizard.jpg"
     },
     {
@@ -435,7 +435,7 @@ Miniature.create([
         rarity: "Unommon",
         size: "Medium",
         units: 2,
-        miniature_set_id: 11,
+        miniature_set_id: 21,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/giants-of-legend/deepshadow-elf.jpg"
     },
     {
@@ -443,7 +443,7 @@ Miniature.create([
         rarity: "Unommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 13,
+        miniature_set_id: 38,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/underdark/elf-stalker.jpg"
     },
     {
@@ -451,7 +451,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 2,
-        miniature_set_id: 14,
+        miniature_set_id: 43,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/war-of-the-dragon-queen/cleric-of-syreth.jpg"
     },
     {
@@ -459,7 +459,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 14,
+        miniature_set_id: 43,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/war-of-the-dragon-queen/tavern-brawler.jpg"
     },
     {
@@ -467,7 +467,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 15,
+        miniature_set_id: 9,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/blood-war/succubus.jpg"
     },
     {
@@ -475,7 +475,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 2,
-        miniature_set_id: 16,
+        miniature_set_id: 15,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/dungeons-of-dread/vampire-spawn.jpg"
     },
     {
@@ -483,7 +483,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 17,
+        miniature_set_id: 12,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/demonweb/drow-assassin.jpg"
     },
     {
@@ -491,7 +491,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Large",
         units: 1,
-        miniature_set_id: 18,
+        miniature_set_id: 31,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/savage-encounters/savage-minotaur.jpg"
     },
     {
@@ -499,7 +499,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 19,
+        miniature_set_id: 61,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/undead-horde/vampire.jpg"
     },
     {
@@ -507,7 +507,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 20,
+        miniature_set_id: 59,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/shattered-star/catfolk-rogue.jpg"
     },
     {
@@ -515,7 +515,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 4,
-        miniature_set_id: 20,
+        miniature_set_id: 59,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/shattered-star/shriezyx.jpg"
     },
     {
@@ -523,7 +523,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 21,
+        miniature_set_id: 60,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/skull-and-shackles/shimerae.jpg"
     },
     {
@@ -531,7 +531,7 @@ Miniature.create([
         rarity: "Common",
         size: "Small",
         units: 1,
-        miniature_set_id: 22,
+        miniature_set_id: 56,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/reign-of-winter/owl.jpg"
     },
     {
@@ -539,7 +539,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 23,
+        miniature_set_id: 51,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/dungeons-deep/dracolisk.jpg"
     },
     {
@@ -547,7 +547,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 24,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/rusty-dragon-inn/cutpurse.jpg"
     },
     {
@@ -555,7 +555,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Small",
         units: 1,
-        miniature_set_id: 24,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/rusty-dragon-inn/gnome-wizard.jpg"
     },
     {
@@ -563,7 +563,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 24,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/rusty-dragon-inn/dwarf-bard.jpg"
     },
     {
@@ -571,7 +571,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 24,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/rusty-dragon-inn/dwarf-wizard.jpg"
     },
     {
@@ -579,7 +579,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 24,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/rusty-dragon-inn/half-elf-bard.jpg"
     },
     {
@@ -587,7 +587,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 24,
+        miniature_set_id: 58,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/rusty-dragon-inn/cayden-cailen.jpg"
     },
     {
@@ -595,7 +595,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 25,
+        miniature_set_id: 55,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/maze-of-death/penanggalen.jpg"
     },
     {
@@ -603,7 +603,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 25,
+        miniature_set_id: 55,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/maze-of-death/minotaur-artillery.jpg"
     },
     {
@@ -611,7 +611,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 26,
+        miniature_set_id: 52,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/jungle-of-despair/elf-assassin.jpg"
     },
     {
@@ -619,7 +619,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 27,
+        miniature_set_id: 53,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/shadow-rogue-pre.jpg"
     },
     {
@@ -627,7 +627,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 27,
+        miniature_set_id: 53,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/jaethal-elf-inquisitor-pre.jpg"
     },
     {
@@ -635,7 +635,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 27,
+        miniature_set_id: 53,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/oni-mage-pre.jpg"
     },
     {
@@ -643,7 +643,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 27,
+        miniature_set_id: 53,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/scarecrow-pre.jpg"
     },
     {
@@ -651,7 +651,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Small",
         units: 1,
-        miniature_set_id: 28,
+        miniature_set_id: 57,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/ruins-of-lastwall/nosoi-psychopomp_pre.jpg"
     },
     {
@@ -659,7 +659,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 28,
+        miniature_set_id: 57,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/ruins-of-lastwall/lastwall-paladin_pre.jpg"
     },
     {
@@ -667,7 +667,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 28,
+        miniature_set_id: 57,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/ruins-of-lastwall/arazni_pre.jpg"
     },
     {
@@ -675,7 +675,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 29,
+        miniature_set_id: 54,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/legendary-adventures/elf-ranger-24a.jpg"
     },
     {
@@ -683,7 +683,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 29,
+        miniature_set_id: 54,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/legendary-adventures/orc-warlord_pre.jpg"
     },
     {
@@ -691,7 +691,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Small",
         units: 1,
-        miniature_set_id: 29,
+        miniature_set_id: 54,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/legendary-adventures/goblin-chief.jpg"
     },
     {
@@ -699,7 +699,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 30,
+        miniature_set_id: 50,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/duergar-bombadier.jpg"
     },
     {
@@ -707,7 +707,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 2,
-        miniature_set_id: 30,
+        miniature_set_id: 50,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/duergar-sharpshooter.jpg"
     },
     {
@@ -715,7 +715,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 30,
+        miniature_set_id: 50,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/changling-exile.jpg"
     },
     {
@@ -723,7 +723,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Large",
         units: 1,
-        miniature_set_id: 31,
+        miniature_set_id: 3,
         img_url: "https://www.minisgallery.com/images/minis/critical-role/npcs-of-wildemount/sunbreaker-ulumon_pre.jpg"
     },
     {
@@ -731,7 +731,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Large",
         units: 1,
-        miniature_set_id: 32,
+        miniature_set_id: 8,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/arkhan-the-cruel/torogar-steelfist.jpg"
     },
     {
@@ -739,7 +739,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 33,
+        miniature_set_id: 10,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/curse-of-strahd/vasilka.jpg"
     },
     {
@@ -747,7 +747,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 33,
+        miniature_set_id: 10,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/curse-of-strahd/rose.jpg"
     },
     {
@@ -755,7 +755,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Small",
         units: 1,
-        miniature_set_id: 34,
+        miniature_set_id: 45,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/wild-shape-and-polymorph-1/rat.jpg"
     },
     {
@@ -763,7 +763,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 35,
+        miniature_set_id: 30,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/satlmarsh/mr-dory.jpg"
     },
     {
@@ -771,7 +771,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 36,
+        miniature_set_id: 47,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist-box-set-1/ammalia-cassalanter_pre.jpg"
     },
     {
@@ -779,7 +779,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 36,
+        miniature_set_id: 47,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist-box-set-1/jarlaxle-baenre_pre.jpg"
     },
     {
@@ -787,7 +787,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 36,
+        miniature_set_id: 47,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist-box-set-1/victoro-cassalanter_pre.jpg"
     },
     {
@@ -795,7 +795,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 37,
+        miniature_set_id: 34,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/strixhaven-2/witherbloom-student_pre.jpg"
     },
     {
@@ -803,7 +803,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 38,
+        miniature_set_id: 48,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/human-paladin.jpg"
     },
     {
@@ -811,7 +811,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 38,
+        miniature_set_id: 48,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/human-female-barbarian.jpg"
     },
     {
@@ -819,7 +819,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 2,
-        miniature_set_id: 38,
+        miniature_set_id: 48,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/human-red-wizard.jpg"
     },
     {
@@ -827,7 +827,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 38,
+        miniature_set_id: 48,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/half-black-dragon-lord.jpg"
     },
     {
@@ -835,7 +835,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 1,
+        miniature_set_id: 39,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/van-richten.jpg"
     },
     {
@@ -843,7 +843,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 2,
-        miniature_set_id: 39,
+        miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/owlbear.jpg"
     },
     {
@@ -851,7 +851,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 39,
+        miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/ettin.jpg"
     },
     {
@@ -859,7 +859,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 39,
+        miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/hieracosphinx.jpg"
     },
     {
@@ -867,7 +867,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 39,
+        miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/black-dragon.jpg"
     },
     {
@@ -875,7 +875,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 39,
+        miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/chimera.jpg"
     },
     {
@@ -883,7 +883,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/human-wizard.jpg"
     },
     {
@@ -891,7 +891,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drow-captain.jpg"
     },
     {
@@ -899,7 +899,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/mind-flayer-lich.jpg"
     },
     {
@@ -907,7 +907,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/copper-dragon.jpg"
     },
     {
@@ -915,7 +915,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 41,
+        miniature_set_id: 27,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/nalfeshnee-demon.jpg"
     },
     {
@@ -923,7 +923,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 42,
+        miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/jarhild-stoneforge.jpg"
     },
     {
@@ -931,7 +931,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 42,
+        miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/larethar-gulgrin.jpg"
     },
     {
@@ -939,7 +939,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 42,
+        miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/wolf.jpg"
     },
     {
@@ -947,7 +947,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 42,
+        miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/hommet-shaw.jpg"
     },
     {
@@ -955,7 +955,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 42,
+        miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/gelatinous-cube.jpg"
     },
     {
@@ -963,7 +963,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 42,
+        miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/lich.jpg"
     },
     {
@@ -971,7 +971,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 4,
-        miniature_set_id: 43,
+        miniature_set_id: 33,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/storm-kings-thunder/cazi-alphelandra.jpg"
     },
     {
@@ -979,7 +979,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 43,
+        miniature_set_id: 33,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/storm-kings-thunder/fomorian.jpg"
     },
     {
@@ -987,7 +987,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Huge",
         units: 1,
-        miniature_set_id: 43,
+        miniature_set_id: 33,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/storm-kings-thunder/fire-giant.jpg"
     },
     {
@@ -995,7 +995,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 44,
+        miniature_set_id: 24,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie-2/drow-elite-warrior.jpg"
     }, 
     {
@@ -1003,7 +1003,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Huge",
         units: 1,
-        miniature_set_id: 44,
+        miniature_set_id: 24,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie-2/worg.jpg"
     },
     {
@@ -1011,7 +1011,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 45,
+        miniature_set_id: 36,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/valindra-shadowmantle.jpg"
     },
     {
@@ -1019,7 +1019,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 46,
+        miniature_set_id: 25,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie-3/aasimar-paladin-39b.jpg"
     },
     {
@@ -1027,7 +1027,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 47,
+        miniature_set_id: 46,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/cambion-devil-13.jpg"
     },
     {
@@ -1035,7 +1035,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 47,
+        miniature_set_id: 46,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/cambion-devil-17.jpg"
     },
     {
@@ -1043,7 +1043,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 48,
+        miniature_set_id: 28,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/mind-drinker-vampire.jpg"
     },
     {
@@ -1051,7 +1051,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Small",
         units: 1,
-        miniature_set_id: 48,
+        miniature_set_id: 28,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/azorius-homunculus.jpg"
     },
     {
@@ -1059,7 +1059,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 48,
+        miniature_set_id: 28,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/blood-drinker-vampire.jpg"
     },
     {
@@ -1067,7 +1067,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 48,
+        miniature_set_id: 28,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/orzhov-advokist.jpg"
     },
     {
@@ -1075,7 +1075,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 49,
+        miniature_set_id: 48,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dungeon-of-the-mad-mage/human-paladin-of-the-oath-of-vengeance.jpg"
     },
     {
@@ -1083,7 +1083,7 @@ Miniature.create([
         rarity: "Common",
         size: "Small",
         units: 1,
-        miniature_set_id: 50,
+        miniature_set_id: 13,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/descent-into-avernus/abyssal-chicken.jpg"
     },
     {
@@ -1091,7 +1091,7 @@ Miniature.create([
         rarity: "Common",
         size: "Small",
         units: 1,
-        miniature_set_id: 50,
+        miniature_set_id: 13,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/descent-into-avernus/legion-imp.jpg"
     },
     {
@@ -1099,7 +1099,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 50,
+        miniature_set_id: 13,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/descent-into-avernus/legion-erinyes.jpg"
     },
     {
@@ -1107,7 +1107,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 50,
+        miniature_set_id: 13,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/descent-into-avernus/zariel.jpg"
     },
     {
@@ -1115,7 +1115,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 51,
+        miniature_set_id: 42,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/volos-and-mordenkainens-foes/barghest.jpg"
     },
     {
@@ -1123,7 +1123,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 51,
+        miniature_set_id: 42,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/volos-and-mordenkainens-foes/iron-cobra.jpg"
     },
     {
@@ -1131,7 +1131,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 53,
+        miniature_set_id: 35,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mythic-odysseys-of-theros/two-headed-cerberus.jpg"
     },
     {
@@ -1139,7 +1139,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 53,
+        miniature_set_id: 35,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mythic-odysseys-of-theros/catoplebas.jpg"
     },
     {
@@ -1147,7 +1147,7 @@ Miniature.create([
         rarity: "Common",
         size: "Small",
         units: 1,
-        miniature_set_id: 54,
+        miniature_set_id: 29,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/artic-fox.jpg"
     },
     {
@@ -1155,7 +1155,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 54,
+        miniature_set_id: 29,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/duergar-mind-master.jpg"
     },
     {
@@ -1163,7 +1163,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 1,
+        miniature_set_id: 39,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/duergar-slaver.jpg"
     },
     {
@@ -1171,7 +1171,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 54,
+        miniature_set_id: 29,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/mountain-goat.jpg"
     },
     {
@@ -1179,7 +1179,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 54,
+        miniature_set_id: 29,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/crag-cat.jpg"
     },
     {
@@ -1187,7 +1187,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 55,
+        miniature_set_id: 18,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/fangs-and-talons/fire-genasi-fighter.jpg"
     },
     {
@@ -1195,7 +1195,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 55,
+        miniature_set_id: 18,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/fangs-and-talons/gloom-weaver_2.jpg"
     },
     {
@@ -1203,7 +1203,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 4,
-        miniature_set_id: 55,
+        miniature_set_id: 18,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/fangs-and-talons/berbalang.jpg"
     },
     {
@@ -1211,7 +1211,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 2,
-        miniature_set_id: 55,
+        miniature_set_id: 18,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/fangs-and-talons/thayan-apprentice.jpg"
     },
     {
@@ -1219,7 +1219,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 56,
+        miniature_set_id: 44,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/performer-2_pre.jpg"
     },
     {
@@ -1227,7 +1227,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Small",
         units: 1,
-        miniature_set_id: 56,
+        miniature_set_id: 44,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/sir-talavar_pre.jpg"
     },
     {
@@ -1235,7 +1235,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 56,
+        miniature_set_id: 44,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/star_pre2.jpg"
     },
     {
@@ -1243,7 +1243,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 56,
+        miniature_set_id: 44,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/unknown-darkling.jpg"
     },
     {
@@ -1251,7 +1251,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 59,
+        miniature_set_id: 2,
         img_url: "https://www.minisgallery.com/images/minis/critical-role/clovis-concord-and-menagerie-coast/the-hollow-one.jpg"
     },
     {
@@ -1259,7 +1259,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 59,
+        miniature_set_id: 2,
         img_url: "https://www.minisgallery.com/images/minis/critical-role/clovis-concord-and-menagerie-coast/pallid-elf.jpg"
     },
     {
@@ -1267,7 +1267,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 60,
+        miniature_set_id: 40,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/molliver_pre2.jpg"
     },
     {
@@ -1275,7 +1275,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 61,
+        miniature_set_id: 22,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/kelek_pre2.jpg"
     },
     {
@@ -1283,7 +1283,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 61,
+        miniature_set_id: 22,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/skylla_pre2.jpg"
     },
     {
@@ -1291,7 +1291,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 62,
+        miniature_set_id: 6,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/angelfire/ghostly-consort.jpg"
     },
     {
@@ -1299,7 +1299,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 23,
+        miniature_set_id: 51,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/dungeons-deep/dragon-smiter.jpg"
     },
     {
@@ -1307,7 +1307,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 2,
+        miniature_set_id: 32,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/deva.jpg"
     },
     {
@@ -1315,7 +1315,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Medium",
         units: 1,
-        miniature_set_id: 45,
+        miniature_set_id: 36,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/minsc-and-boo.jpg"
     },
     {
@@ -1323,7 +1323,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 4,
-        miniature_set_id: 2,
+        miniature_set_id: 32,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/ice-troll.jpg"
     },
     {
@@ -1331,7 +1331,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Huge",
         units: 1,
-        miniature_set_id: 40,
+        miniature_set_id: 62,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/adult-black-dragon.jpg"
     },
     {
@@ -1339,7 +1339,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 38,
+        miniature_set_id: 37,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/red-dragon.jpg"
     },
     {
@@ -1347,7 +1347,7 @@ Miniature.create([
         rarity: "Unique",
         size: "Medium",
         units: 1,
-        miniature_set_id: 32,
+        miniature_set_id: 8,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/arkhan-the-cruel/arkhan-the-cruel.jpg"
     },
     {
@@ -1355,7 +1355,7 @@ Miniature.create([
         rarity: "Common",
         size: "Medium",
         units: 1,
-        miniature_set_id: 57,
+        miniature_set_id: 41,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/van-richtens-guide-to-ravenloft/wereraven.jpg"
     },
     {
@@ -1363,7 +1363,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Huge",
         units: 1,
-        miniature_set_id: 58,
+        miniature_set_id: 26,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mordenkainen-monsters-of-the-multiverse/female-steeder.jpg"
     },
     {
@@ -1371,7 +1371,7 @@ Miniature.create([
         rarity: "Unommon",
         size: "Large",
         units: 4,
-        miniature_set_id: 13,
+        miniature_set_id: 38,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/underdark/dire-bat.jpg"
     },
     {
@@ -1379,7 +1379,7 @@ Miniature.create([
         rarity: "Uncommon",
         size: "Large",
         units: 1,
-        miniature_set_id: 52,
+        miniature_set_id: 16,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rising-from-the-last-war/cloaker.jpg"
     },
     {
@@ -1387,7 +1387,7 @@ Miniature.create([
         rarity: "Rare",
         size: "Large",
         units: 1,
-        miniature_set_id: 18,
+        miniature_set_id: 31,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/savage-encounters/adult-purple-dragon.jpg"
     }
 ])
