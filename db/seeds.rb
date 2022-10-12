@@ -367,6 +367,38 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/deathknell/dragonblade-ninja.jpg"
     },
     {
+        name: "Oni Mage",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 53,
+        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/oni-mage-pre.jpg"
+    },
+    {
+        name: "Ettin",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 17,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/ettin.jpg"
+    },
+    {
+        name: "Fomorian",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 2,
+        miniature_set_id: 33,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/storm-kings-thunder/fomorian.jpg"
+    },
+    {
+        name: "Chimera",
+        rarity: "Rare",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 17,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/chimera.jpg"
+    },
+    {
         name: "The Ghost of Jericho Blackwing",
         rarity: "Unique",
         size: "Medium",
@@ -631,14 +663,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/jaethal-elf-inquisitor-pre.jpg"
     },
     {
-        name: "Oni Mage",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 53,
-        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/kingmaker/oni-mage-pre.jpg"
-    },
-    {
         name: "Scarecrow",
         rarity: "Rare",
         size: "Medium",
@@ -847,14 +871,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/owlbear.jpg"
     },
     {
-        name: "Ettin",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 17,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/ettin.jpg"
-    },
-    {
         name: "Heiracosphinx",
         rarity: "Uncommon",
         size: "Large",
@@ -869,14 +885,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/black-dragon.jpg"
-    },
-    {
-        name: "Chimera",
-        rarity: "Rare",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 17,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/chimera.jpg"
     },
     {
         name: "Human Wizard",
@@ -973,14 +981,6 @@ Miniature.create([
         units: 4,
         miniature_set_id: 33,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/storm-kings-thunder/cazi-alphelandra.jpg"
-    },
-    {
-        name: "Fomorian",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 33,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/storm-kings-thunder/fomorian.jpg"
     },
     {
         name: "Fire Giant",
