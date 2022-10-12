@@ -711,7 +711,7 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/duergar-sharpshooter.jpg"
     },
     {
-        name: "Changling Exile",
+        name: "Changeling Exile",
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
