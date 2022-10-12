@@ -399,6 +399,14 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/chimera.jpg"
     },
     {
+        name: "Gelatinous Cube",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 23,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/gelatinous-cube.jpg"
+    },
+    {
         name: "The Ghost of Jericho Blackwing",
         rarity: "Unique",
         size: "Medium",
@@ -957,14 +965,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/hommet-shaw.jpg"
-    },
-    {
-        name: "Gelatinous Cube",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 23,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/monster-menagerie/gelatinous-cube.jpg"
     },
     {
         name: "Lich",
