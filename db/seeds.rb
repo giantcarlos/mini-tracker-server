@@ -3,19 +3,11 @@ puts "🌱 Seeding spices..."
 
 MiniatureSet.create([
     {
-        name: "Dungeons & Dragons: Unhallowed",
-        year: 2007
-    },
-    {
-        name: "Dungeons & Dragons: Snowbound",
-        year: 2021
-    },
-    {
         name: "Critical Role: Characters of Tal'Dorei",
         year: 2021
     },
     {
-        name: "Magic the Gathering: Adventures in the Forgotten Realms",
+        name: "Critical Role: NPC's of Wildemount",
         year: 2021
     },
     {
@@ -27,6 +19,62 @@ MiniatureSet.create([
         year: 2021
     },
     {
+        name: "Dungeons & Dragons: Angelfire",
+        year: 2005
+    },
+    {
+        name: "Dungeons & Dragons: Archfiends",
+        year: 2004
+    },
+    {
+        name: "Dungeons & Dragons: Arkhan the Cruel and the Dark Order",
+        year: 2020
+    },
+    {
+        name: "Dungeons & Dragons: Blood War",
+        year: 2006
+    },
+    {
+        name: "Dungeons & Dragons: Clovis Concord & Managerie Coast",
+        year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Covens & Covenants",
+        year: 2020
+    },
+    {
+        name: "Dungeons & Dragons: Deathknell",
+        year: 2005
+    },
+    {
+        name: "Dungeons & Dragons: Demonweb",
+        year: 2008
+    },
+    {
+        name: "Dungeons & Dragons: Descent into Avernus",
+        year: 2019
+    },
+    {
+        name: "Dungeons & Dragons: Dragoneye",
+        year: 2003
+    },
+    {
+        name: "Dungeons & Dragons: Dungeons of Dread",
+        year: 2008
+    },
+    {
+        name: "Dungeons & Dragons: Eberron",
+        year: 2020
+    },
+    {
+        name: "Dungeons & Dragons: Elemental Evil",
+        year: 2015
+    },
+    {
+        name: "Dungeons & Dragons: Fangs & Talons",
+        year: 2020
+    },
+    {
         name: "Dungeons & Dragons: Game Day 2005",
         year: 2005
     },
@@ -35,72 +83,128 @@ MiniatureSet.create([
         year: 2008
     },
     {
-        name: "Dungeons & Dragons: Dragoneye",
-        year: 2003
-    },
-    {
-        name: "Dungeons & Dragons: Archfiends",
-        year: 2004
-    },
-    {
         name: "Dungeons & Dragons: Giants of Legend",
         year: 2004
     },
     {
-        name: "Dungeons & Dragons: Deathknell",
-        year: 2005
+        name: "Dungeons & Dragons: League of Malevolence",
+        year: 2021
     },
     {
-        name: "Dungeons & Dragons: Underdark",
-        year: 2005
+        name: "Dungeons & Dragons: Monster Managerie",
+        year: 2016
     },
     {
-        name: "Dungeons & Dragons: War of the Dragon Queen",
-        year: 2006
+        name: "Dungeons & Dragons: Monster Managerie 2",
+        year: 2017
     },
     {
-        name: "Dungeons & Dragons: Blood War",
-        year: 2006
+        name: "Dungeons & Dragons: Monster Managerie 3",
+        year: 2018
     },
     {
-        name: "Dungeons & Dragons: Dungeons of Dread",
-        year: 2008
+        name: "Dungeons & Dragons: Monsters of the Multiverse",
+        year: 2022
     },
     {
-        name: "Dungeons & Dragons: Demonweb",
-        year: 2008
+        name: "Dungeons & Dragons: Rage of Demons",
+        year: 2015
+    },
+    {
+        name: "Dungeons & Dragons: Ravnica",
+        year: 2018
+    },
+    {
+        name: "Dungeons & Dragons: Rime of the Frostmaiden",
+        year: 2020
+    },
+    {
+        name: "Dungeons & Dragons: Saltmarsh 2",
+        year: 2021
     },
     {
         name: "Dungeons & Dragons: Savage Encounters",
         year: 2009
     },
     {
-        name: "Pathfinder: Undead Hordes",
-        year: 2013
+        name: "Dungeons & Dragons: Snowbound",
+        year: 2021
     },
     {
-        name: "Pathfinder: Shattered Star",
-        year: 2013
+        name: "Dungeons & Dragons: Storm King's Thunder",
+        year: 2016
     },
     {
-        name: "Pathfinder: Skull & Shackles",
-        year: 2013
+        name: "Dungeons & Dragons: Strixhaven 2",
+        year: 2022
     },
     {
-        name: "Pathfinder: Reign of Winter",
+        name: "Dungeons & Dragons: Theros",
+        year: 2020
+    },
+    {
+        name: "Dungeons & Dragons: Tomb of Annihilation",
+        year: 2017
+    },
+    {
+        name: "Dungeons & Dragons: Tyrrany of Dragons",
         year: 2014
+    },
+    {
+        name: "Dungeons & Dragons: Underdark",
+        year: 2005
+    },
+    {
+        name: "Dungeons & Dragons: Unhallowed",
+        year: 2007
+    },
+    {
+        name: "Dungeons & Dragons: Valor's Call",
+        year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Van Richten's Guide to Ravenloft",
+        year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Volo & Mordenkainen's Foes",
+        year: 2019
+    },
+    {
+        name: "Dungeons & Dragons: War of the Dragon Queen",
+        year: 2006
+    },
+    {
+        name: "Dungeons & Dragons: The Wild Beyond the Witchlight",
+        year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Wild Shape & Polymorph 1",
+        year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Waterdeep Dragon Heist",
+        year: 2018
+    },
+    {
+        name: "Dungeons & Dragons: Waterdeep Dragon Heist 1",
+        year: 2021
+    },
+    {
+        name: "Dungeons & Dragons: Waterdeep Dungeon of the Mad Mage",
+        year: 2019
+    },
+    {
+        name: "Magic the Gathering: Adventures in the Forgotten Realms",
+        year: 2021
+    },
+    {
+        name: "Pathfinder: City of Lost Omens",
+        year: 2020
     },
     {
         name: "Pathfinder: Dungeons Deep",
         year: 2015
-    },
-    {
-        name: "Pathfinder: Rusty Dragon Inn",
-        year: 2015
-    },
-    {
-        name: "Pathfinder: Maze of Death",
-        year: 2017
     },
     {
         name: "Pathfinder: Jungle of Despair",
@@ -111,196 +215,108 @@ MiniatureSet.create([
         year: 2018
     },
     {
-        name: "Pathfinder: Ruins of Last Wall",
-        year: 2019
-    },
-    {
         name: "Pathfinder: Legendary Adventures",
         year: 2019
     },
     {
-        name: "Pathfinder: City of Lost Omens",
-        year: 2020
+        name: "Pathfinder: Maze of Death",
+        year: 2017
     },
     {
-        name: "Critical Role: NPC's of Wildemount",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Arkhan the Cruel and the Dark Order",
-        year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: Covens & Covenants",
-        year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: Wild Shape & Polymorph 1",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Saltmarsh 2",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Dragon Heist 1",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Strixhaven 2",
-        year: 2022
-    },
-    {
-        name: "Dungeons & Dragons: Tyrrany of Dragons",
+        name: "Pathfinder: Reign of Winter",
         year: 2014
     },
     {
-        name: "Dungeons & Dragons: Elemental Evil",
+        name: "Pathfinder: Ruins of Last Wall",
+        year: 2019
+    },
+    {
+        name: "Pathfinder: Rusty Dragon Inn",
         year: 2015
+    },
+    {
+        name: "Pathfinder: Shattered Star",
+        year: 2013
+    },
+    {
+        name: "Pathfinder: Skull & Shackles",
+        year: 2013
+    },
+    {
+        name: "Pathfinder: Undead Hordes",
+        year: 2013
     },
     {
         name: "Pathfinder: Adult Red & Black Dragons",
         year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: Rage of Demons",
-        year: 2015
-    },
-    {
-        name: "Dungeons & Dragons: Monster Managerie",
-        year: 2016
-    },
-    {
-        name: "Dungeons & Dragons: Storm King's Thunder",
-        year: 2016
-    },
-    {
-        name: "Dungeons & Dragons: Monster Managerie 2",
-        year: 2017
-    },
-    {
-        name: "Dungeons & Dragons: Tomb of Annihilation",
-        year: 2017
-    },
-    {
-        name: "Dungeons & Dragons: Monster Managerie 3",
-        year: 2018
-    },
-    {
-        name: "Dungeons & Dragons: Dragon Heist",
-        year: 2018
-    },
-    {
-        name: "Dungeons & Dragons: Ravnica",
-        year: 2018
-    },
-    {
-        name: "Dungeons & Dragons: Dungeon of the Mad Mage",
-        year: 2019
-    },
-    {
-        name: "Dungeons & Dragons: Descent into Avernus",
-        year: 2019
-    },
-    {
-        name: "Dungeons & Dragons: Volo & Mordenkainen's Foes",
-        year: 2019
-    },
-    {
-        name: "Dungeons & Dragons: Eberron",
-        year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: Theros",
-        year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: Rime of the Frostmaiden",
-        year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: Fangs & Talons",
-        year: 2020
-    },
-    {
-        name: "Dungeons & Dragons: The Wild Beyond the Witchlight",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Van Richten's Guide to Ravenloft",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Monsters of the Multiverse",
-        year: 2022
-    },
-    {
-        name: "Dungeons & Dragons: Clovis Concord & Managerie Coast",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Valor's Call",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: League of Malevolence",
-        year: 2021
-    },
-    {
-        name: "Dungeons & Dragons: Angelfire",
-        year: 2005
     }
 ])
 
 
 Miniature.create([
     {
-        name: "Count Strahd Von Zarovich, Vampire",
-        rarity: "Rare",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 1,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/count-strahd-von-zarovich-vampire.jpg"
-    },
-    {
-        name: "Van Richten",
-        rarity: "Rare",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 1,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/van-richten.jpg"
-    },
-    {
-        name: "Duergar Slaver",
-        rarity: "Common",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 1,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/duergar-slaver.jpg"
-    },
-    {
-        name: "Cormyrean War Wizard",
-        rarity: "Uncommon",
-        size: "Medium",
-        units: 2,
-        miniature_set_id: 1,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/cormyrean-war-wizard.jpg"
-    },
-    {
-        name: "Ice Troll",
+        name: "Snowy Owlbear",
         rarity: "Uncommon",
         size: "Large",
-        units: 4,
-        miniature_set_id: 2,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/ice-troll.jpg"
+        units: 1,
+        miniature_set_id: 54,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/snowy-owlbear.jpg"
     },
     {
-        name: "Deva",
+        name: "Drow Scout",
+        rarity: "Common",
+        size: "Medium",
+        units: 4,
+        miniature_set_id: 41,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drow-scout.jpg"
+    },
+    {
+        name: "Durnan",
+        rarity: "Rare",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 47,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/durnan.jpg"
+    },
+    {
+        name: "Volothamp Geddarm",
+        rarity: "Rare",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 47,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/volothamp-geddarm.jpg"
+    },
+    {
+        name: "Nightveil Specter",
+        rarity: "Rare",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 48,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/nightveil-specter.jpg"
+    },
+    {
+        name: "Drider",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 2,
+        miniature_set_id: 41,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drider.jpg"
+    },
+    {
+        name: "Drow Wizard",
+        rarity: "Unique",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 8,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/promos-gd/drow-wizard.jpg"
+    },
+    {
+        name: "Guildpact Angel",
         rarity: "Uncommon",
         size: "Medium",
         units: 1,
-        miniature_set_id: 2,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/deva.jpg"
+        miniature_set_id: 48,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/deathpact-angel.jpg"
     },
     {
         name: "Duergar Hammerer",
@@ -335,6 +351,22 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/death-saves/war-of-dragons-1/raven-familiar_pre.jpg"
     },
     {
+        name: "Count Strahd Von Zarovich, Vampire",
+        rarity: "Rare",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 1,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/count-strahd-von-zarovich-vampire.jpg"
+    },
+    {
+        name: "Dragonblade Ninja",
+        rarity: "Unommon",
+        size: "Medium",
+        units: 2,
+        miniature_set_id: 12,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/deathknell/dragonblade-ninja.jpg"
+    },
+    {
         name: "The Ghost of Jericho Blackwing",
         rarity: "Unique",
         size: "Medium",
@@ -367,14 +399,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/promos-gd/lolths-sting.jpg"
     },
     {
-        name: "Drow Wizard",
-        rarity: "Unique",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 8,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/promos-gd/drow-wizard.jpg"
-    },
-    {
         name: "Elf Spearguard",
         rarity: "Common",
         size: "Medium",
@@ -399,6 +423,14 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/archfiends/soldier-of-cormyr.jpg"
     },
     {
+        name: "Cormyrean War Wizard",
+        rarity: "Uncommon",
+        size: "Medium",
+        units: 2,
+        miniature_set_id: 1,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/cormyrean-war-wizard.jpg"
+    },
+    {
         name: "Deepshadow Elf",
         rarity: "Unommon",
         size: "Medium",
@@ -407,28 +439,12 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/giants-of-legend/deepshadow-elf.jpg"
     },
     {
-        name: "Dragonblade Ninja",
-        rarity: "Unommon",
-        size: "Medium",
-        units: 2,
-        miniature_set_id: 12,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/deathknell/dragonblade-ninja.jpg"
-    },
-    {
         name: "Elf Stalker",
         rarity: "Unommon",
         size: "Medium",
         units: 1,
         miniature_set_id: 13,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/underdark/elf-stalker.jpg"
-    },
-    {
-        name: "Dire Bat",
-        rarity: "Unommon",
-        size: "Large",
-        units: 4,
-        miniature_set_id: 13,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/underdark/dire-bat.jpg"
     },
     {
         name: "Cleric of Syreth",
@@ -477,14 +493,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 18,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/savage-encounters/savage-minotaur.jpg"
-    },
-    {
-        name: "Adult Purple Dragon",
-        rarity: "Rare",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 18,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/savage-encounters/adult-purple-dragon.jpg"
     },
     {
         name: "Vampire",
@@ -719,14 +727,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/critical-role/npcs-of-wildemount/sunbreaker-ulumon_pre.jpg"
     },
     {
-        name: "Arkhan the Cruel",
-        rarity: "Unique",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 32,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/arkhan-the-cruel/arkhan-the-cruel.jpg"
-    },
-    {
         name: "Torogar Steelfist",
         rarity: "Unique",
         size: "Large",
@@ -831,12 +831,12 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/half-black-dragon-lord.jpg"
     },
     {
-        name: "Red Dragon",
+        name: "Van Richten",
         rarity: "Rare",
-        size: "Large",
+        size: "Medium",
         units: 1,
-        miniature_set_id: 38,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/red-dragon.jpg"
+        miniature_set_id: 1,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/van-richten.jpg"
     },
     {
         name: "Owlbear",
@@ -879,22 +879,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/chimera.jpg"
     },
     {
-        name: "Adult Black Dragon",
-        rarity: "Unique",
-        size: "Huge",
-        units: 1,
-        miniature_set_id: 40,
-        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/adult-black-dragon.jpg"
-    },
-    {
-        name: "Drow Scout",
-        rarity: "Common",
-        size: "Medium",
-        units: 4,
-        miniature_set_id: 41,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drow-scout.jpg"
-    },
-    {
         name: "Human Wizard",
         rarity: "Uncommon",
         size: "Medium",
@@ -909,14 +893,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 41,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drow-captain.jpg"
-    },
-    {
-        name: "Drider",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 2,
-        miniature_set_id: 41,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rage-of-demons/drider.jpg"
     },
     {
         name: "Mind Flayer Lich",
@@ -1039,14 +1015,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/valindra-shadowmantle.jpg"
     },
     {
-        name: "Minsc and Boo",
-        rarity: "Rare",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 45,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/minsc-and-boo.jpg"
-    },
-    {
         name: "Aasimar Paladin",
         rarity: "Rare",
         size: "Medium",
@@ -1069,22 +1037,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 47,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/cambion-devil-17.jpg"
-    },
-    {
-        name: "Durnan",
-        rarity: "Rare",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 47,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/durnan.jpg"
-    },
-    {
-        name: "Volothamp Geddarm",
-        rarity: "Rare",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 47,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/dragon-heist/volothamp-geddarm.jpg"
     },
     {
         name: "Mind Drinker Vampire",
@@ -1117,22 +1069,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 48,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/orzhov-advokist.jpg"
-    },
-    {
-        name: "Guildpact Angel",
-        rarity: "Uncommon",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 48,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/deathpact-angel.jpg"
-    },
-    {
-        name: "Nightveil Specter",
-        rarity: "Rare",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 48,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/ravnica/nightveil-specter.jpg"
     },
     {
         name: "Human Paladin of the Oath of Vengeance",
@@ -1191,14 +1127,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/volos-and-mordenkainens-foes/iron-cobra.jpg"
     },
     {
-        name: "Cloaker",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 52,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rising-from-the-last-war/cloaker.jpg"
-    },
-    {
         name: "Two-Headed Cerberus",
         rarity: "Common",
         size: "Medium",
@@ -1231,6 +1159,14 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/duergar-mind-master.jpg"
     },
     {
+        name: "Duergar Slaver",
+        rarity: "Common",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 1,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/unhallowed/duergar-slaver.jpg"
+    },
+    {
         name: "Mountain Goat",
         rarity: "Common",
         size: "Medium",
@@ -1245,14 +1181,6 @@ Miniature.create([
         units: 1,
         miniature_set_id: 54,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/crag-cat.jpg"
-    },
-    {
-        name: "Snowy Owlbear",
-        rarity: "Uncommon",
-        size: "Large",
-        units: 1,
-        miniature_set_id: 54,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rime-of-the-frostmaiden/snowy-owlbear.jpg"
     },
     {
         name: "Fire Genasi Fighter",
@@ -1319,22 +1247,6 @@ Miniature.create([
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/the-wild-beyond-the-witchlight/unknown-darkling.jpg"
     },
     {
-        name: "Wereraven",
-        rarity: "Common",
-        size: "Medium",
-        units: 1,
-        miniature_set_id: 57,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/van-richtens-guide-to-ravenloft/wereraven.jpg"
-    },
-    {
-        name: "Female Steeder",
-        rarity: "Uncommon",
-        size: "Huge",
-        units: 1,
-        miniature_set_id: 58,
-        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mordenkainen-monsters-of-the-multiverse/female-steeder.jpg"
-    },
-    {
         name: "The Hollow One",
         rarity: "Unique",
         size: "Medium",
@@ -1389,6 +1301,94 @@ Miniature.create([
         units: 1,
         miniature_set_id: 23,
         img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/dungeons-deep/dragon-smiter.jpg"
+    },
+    {
+        name: "Deva",
+        rarity: "Uncommon",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 2,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/deva.jpg"
+    },
+    {
+        name: "Adult Black Dragon",
+        rarity: "Unique",
+        size: "Huge",
+        units: 1,
+        miniature_set_id: 40,
+        img_url: "https://www.minisgallery.com/images/minis/pathfinder-battles/city-of-lost-omens/adult-black-dragon.jpg"
+    },
+    {
+        name: "Wereraven",
+        rarity: "Common",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 57,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/van-richtens-guide-to-ravenloft/wereraven.jpg"
+    },
+    {
+        name: "Arkhan the Cruel",
+        rarity: "Unique",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 32,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/arkhan-the-cruel/arkhan-the-cruel.jpg"
+    },
+    {
+        name: "Female Steeder",
+        rarity: "Uncommon",
+        size: "Huge",
+        units: 1,
+        miniature_set_id: 58,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/mordenkainen-monsters-of-the-multiverse/female-steeder.jpg"
+    },
+    {
+        name: "Ice Troll",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 4,
+        miniature_set_id: 2,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/snowbound/ice-troll.jpg"
+    },
+    {
+        name: "Cloaker",
+        rarity: "Uncommon",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 52,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/rising-from-the-last-war/cloaker.jpg"
+    },
+    {
+        name: "Minsc and Boo",
+        rarity: "Rare",
+        size: "Medium",
+        units: 1,
+        miniature_set_id: 45,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tomb-of-annihilation/minsc-and-boo.jpg"
+    },
+    {
+        name: "Red Dragon",
+        rarity: "Rare",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 38,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/tyranny-of-dragons/red-dragon.jpg"
+    },
+    {
+        name: "Dire Bat",
+        rarity: "Unommon",
+        size: "Large",
+        units: 4,
+        miniature_set_id: 13,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/underdark/dire-bat.jpg"
+    },
+    {
+        name: "Adult Purple Dragon",
+        rarity: "Rare",
+        size: "Large",
+        units: 1,
+        miniature_set_id: 18,
+        img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-miniatures/savage-encounters/adult-purple-dragon.jpg"
     }
 ])
 
