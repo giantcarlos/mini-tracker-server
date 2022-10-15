@@ -5,7 +5,7 @@ class MiniatureSetsController < ApplicationController
     end
 
     get '/miniature_sets/:id' do
-        @miniature_set = MiniatureSet.find(params[:id])
+        @miniature_set = MiniatureSet.find(params[:miniature_set_id])
         @miniature_set.to_json(include: :miniatures)
     end
 
@@ -15,13 +15,13 @@ class MiniatureSetsController < ApplicationController
     end
 
     patch '/miniature_sets/:id' do
-        @miniature_set = MiniatureSet.find(params[:id])
+        @miniature_set = MiniatureSet.find(params[:miniature_set_id])
         @miniature_set.update(params)
         @miniature_set.to_json
     end
 
     delete '/miniature_sets/:id' do
-        @miniature_set = MiniatureSet.find(params[:id])
+        @miniature_set = MiniatureSet.find(params[:miniature_set_id])
         @miniature_set.destroy
         @miniature_set.to_json
     end
