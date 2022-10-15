@@ -378,7 +378,7 @@ Miniature.create([
         name: "Ettin",
         rarity: "Uncommon",
         size: "Large",
-        units: 1,
+        units: 2,
         miniature_set_id: 17,
         img_url: "https://www.minisgallery.com/images/minis/dungeons-and-dragons-icons-of-the-realms/elemental-evil/ettin.jpg"
     },
