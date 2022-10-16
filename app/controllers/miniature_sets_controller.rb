@@ -1,7 +1,7 @@
 class MiniatureSetsController < ApplicationController
 
     get '/miniature_sets' do
-        MiniatureSet.all.to_json(include: :miniatures)
+        MiniatureSet.order(:name).to_json(include: :miniatures)
     end
 
     get '/miniature_sets/:id' do
