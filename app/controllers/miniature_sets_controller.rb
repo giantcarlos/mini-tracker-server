@@ -17,7 +17,7 @@ class MiniatureSetsController < ApplicationController
     patch '/miniature_sets/:id' do
         @miniature_set = MiniatureSet.find(params[:id])
         @miniature_set.update(params)
-        @miniature_set.to_json
+        @miniature_set.to_json(include: :miniatures)
     end
 
     delete '/miniature_sets/:id' do
