@@ -1,5 +1,9 @@
 class MiniaturesController < ApplicationController
 
+    get '/miniatures' do
+        Miniature.all.to_json(include: :miniature_set)
+    end
+    
     get '/miniatures/alphabetical' do
         Miniature.order(:name).to_json(include: :miniature_set)
     end
@@ -11,10 +15,6 @@ class MiniaturesController < ApplicationController
     get '/miniatures/latest' do
         @miniatures = Miniature.all
         @miniatures.reverse.to_json(include: :miniature_set)
-    end
-
-    get '/miniatures/' do
-        Miniature.order(:name).to_json(include: :miniature_set)
     end
 
     get '/miniatures/new' do
@@ -41,7 +41,7 @@ class MiniaturesController < ApplicationController
     patch '/miniatures/:id' do
         @miniature = Miniature.find(params[:id])
         @miniature.update(params)
-        @miniature.to_json
+        @miniature.to_json(include: miniature_set)
     end
 
     delete '/miniatures/:id' do
