@@ -42,7 +42,7 @@ class MiniaturesController < ApplicationController
         @miniature = Miniature.find(params[:id])
         @miniature.update(
             name: params[:name],
-            rarity: params[:rarirty],
+            rarity: params[:rarity],
             size: params[:size],
             units: params[:units],
             img_url: params[:img_url]
