@@ -40,8 +40,14 @@ class MiniaturesController < ApplicationController
 
     patch '/miniatures/:id' do
         @miniature = Miniature.find(params[:id])
-        @miniature.update(params)
-        @miniature.to_json(include: miniature_set)
+        @miniature.update(
+            name: params[:name],
+            rarity: params[:rarirty],
+            size: params[:size],
+            units: params[:units],
+            img_url: params[:img_url]
+            )
+        @miniature.to_json
     end
 
     delete '/miniatures/:id' do
