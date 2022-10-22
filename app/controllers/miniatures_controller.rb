@@ -4,10 +4,6 @@ class MiniaturesController < ApplicationController
         Miniature.all.to_json(include: :miniature_set)
     end
 
-    get '/miniatures/new' do
-        Miniature.last(6).to_json(include: :miniature_set)
-    end
-
     get '/miniatures/:id' do
         @miniature = Miniature.find(params[:id])
         @miniature.to_json(include: :miniature_set)
