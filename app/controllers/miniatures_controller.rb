@@ -1,7 +1,7 @@
 class MiniaturesController < ApplicationController
 
     get '/miniatures' do
-        Miniature.all.to_json(include: :miniature_set)
+        Miniature.all.reverse.to_json(include: :miniature_set)
     end
 
     get '/miniatures/:id' do
