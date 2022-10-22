@@ -1,3 +1,3 @@
 class MiniatureSet < ActiveRecord::Base
-    has_many :miniatures
+    has_many :miniatures, dependent: :destroy
 end

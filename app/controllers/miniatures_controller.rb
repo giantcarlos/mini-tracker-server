@@ -3,15 +3,6 @@ class MiniaturesController < ApplicationController
     get '/miniatures/alphabetical' do
         Miniature.order(:name).to_json(include: :miniature_set)
     end
-    
-    get '/miniatures/oldest' do
-        Miniature.all.to_json(include: :miniature_set)
-    end
-
-    get '/miniatures/latest' do
-        @miniatures = Miniature.all
-        @miniatures.reverse.to_json(include: :miniature_set)
-    end
 
     get '/miniatures/new' do
         Miniature.last(6).to_json(include: :miniature_set)
