@@ -1,7 +1,7 @@
 class MiniaturesController < ApplicationController
 
-    get '/miniatures/alphabetical' do
-        Miniature.order(:name).to_json(include: :miniature_set)
+    get '/miniatures' do
+        Miniature.all.to_json(include: :miniature_set)
     end
 
     get '/miniatures/new' do
