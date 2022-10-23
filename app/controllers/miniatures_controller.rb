@@ -18,7 +18,7 @@ class MiniaturesController < ApplicationController
         @miniature_set = MiniatureSet.find(params["miniature_set_id"])
         @miniature = @miniature_set.miniatures.build(params)
         @miniature.save
-        @miniature.to_json(include: miniature_set)
+        @miniature.to_json
     end
 
     patch '/miniatures/:id' do
@@ -30,7 +30,7 @@ class MiniaturesController < ApplicationController
             units: params[:units],
             img_url: params[:img_url]
             )
-        @miniature.to_json(include: miniature_set)
+        @miniature.to_json
     end
 
     delete '/miniatures/:id' do
