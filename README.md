@@ -22,7 +22,7 @@ Miniature Tracker is an application used to catalog D&D and Tabletop RPG miniatu
 ### **Instructions**
 ---
 
-- Run rake server on localhost:9292.
+- Run bundle install, then bundle exec rake server on localhost:9292.
 
 
 
@@ -30,6 +30,12 @@ Miniature Tracker is an application used to catalog D&D and Tabletop RPG miniatu
 ---
 
 - https://github.com/giantcarlos/mini-tracker-server
+
+
+### ** Client Github**
+---
+
+- https://github.com/giantcarlos/mini-tracker-client
 
 
 ### **Demo Video**
