@@ -11,7 +11,7 @@ class MiniatureSetsController < ApplicationController
 
     post '/miniature_sets' do
         @miniature_set = MiniatureSet.create(params)
-        @miniature_set.to_json
+        @miniature_set.to_json(include: :miniatures)
     end
 
     patch '/miniature_sets/:id' do
