@@ -20,7 +20,7 @@ class MiniatureSetsController < ApplicationController
             name: params[:name],
             year: params[:year]
             )
-        @miniature_set.to_json
+        @miniature_set.to_json(include: :miniatures)
     end
 
     delete '/miniature_sets/:id' do
