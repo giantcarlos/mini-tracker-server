@@ -1,7 +1,11 @@
 class MiniaturesController < ApplicationController
 
     get '/miniatures' do
-        Miniature.all.reverse.to_json(include: :miniature_set)
+        Miniature.order(:name).to_json(include: :miniature_set)
+    end
+
+    get '/miniatures/new' do
+        Miniature.last(6).to_json(include: :miniature_set)
     end
 
     get '/miniatures/:id' do
